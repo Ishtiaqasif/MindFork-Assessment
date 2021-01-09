@@ -1,5 +1,5 @@
 # MindFork-Assessment
-1. Import mindforkbd.bacpac from the git root
+1. Import mindforkbd.bacpac from the git root as Named 'MindForkDB'
 2. Change the dataSource from Connection Gateway
 3. Run the project 
 4. Click on "Get Feedback(API)" link
